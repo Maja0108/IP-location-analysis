@@ -6,3 +6,4 @@ Analysis of IP adresses to get to know the location
 
     distribution.jpg 	- distbution of the contries based on IP locations
     ip_location.html 	- IP location map, folium 
+    ip_location2.html 	- IP location map,clustered results, folium 
